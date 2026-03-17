@@ -36564,6 +36564,7 @@ function App() {
               '"Hey Jarvis turn on LED 1"',
               '"Hey Jarvis turn off LED 3"',
               '"Hey Jarvis turn on all LEDs"',
+              '"Sari LED Jalao"',
               '"Hey Jarvis turn off all LEDs"',
               '"Hey Jarvis open door"',
               '"Hey Jarvis close door"',
